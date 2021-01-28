@@ -1,0 +1,2 @@
+python eval-east-crnn.py --test_data_path=.\images --checkpoint_path=.\east_icdar2015_resnet_v1_50_rbox\ --output_dir=.\result
+python eval-east-crnn.py --test_data_path=./images --checkpoint_path=./east_icdar2015_resnet_v1_50_rbox/ --output_dir=./result
